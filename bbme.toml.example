@@ -1,0 +1,11 @@
+[bitbucket]
+workspace = "your-workspace"
+
+# For app passwords (most common): set both username and token
+username = "your-bitbucket-username"
+token = "your-app-password"
+
+# For OAuth/workspace access tokens: set only token (leave username empty or remove it)
+# token = "your-oauth-or-workspace-token"
+
+# base_url = "https://api.bitbucket.org/2.0"  # optional, defaults to this
